@@ -1,0 +1,19 @@
+{
+  "name": "pruebaelan",
+  "version": "1.0.0",
+  "description": "Proyecto Prueba para Elaniin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimba97/pruebaElaniin.git"
+  },
+  "author": "Gabriel Pineda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimba97/pruebaElaniin/issues"
+  },
+  "homepage": "https://github.com/kimba97/pruebaElaniin#readme"
+}
