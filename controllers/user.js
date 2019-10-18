@@ -41,4 +41,6 @@ function obtenerUsers(req, res){
     })
 }
 
+
+
 module.exports = {signUp, signIn, obtenerUsers}
